@@ -36,6 +36,8 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 0, "update");
 		Novice::ScreenPrintf(0, 20, "LC1A_28_wada_keita");
 
+		Novice::ScreenPrintf(0, 60, "2023/10/11");
+
 		///
 		/// ↑描画処理ここまで
 		///
