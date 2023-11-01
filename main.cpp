@@ -47,6 +47,9 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 		Novice::ScreenPrintf(0, 140, "プルリクエストの作成");
 
 
+		Novice::ScreenPrintf(0, 140, "プルせずに作業");
+
+
 		///
 		/// ↑描画処理ここまで
 		///
